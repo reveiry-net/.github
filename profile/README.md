@@ -1,4 +1,4 @@
-# Reveiry Labs
+# Reveiry Net
 
 Plataforma SaaS multi-nicho con **infraestructura dedicada por empresa**. Cada cliente que contrata una app recibe su propio stack (base de datos, cache, API, IA); nada se comparte entre empresas.
 
